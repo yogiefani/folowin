@@ -5,7 +5,7 @@ import HeroSection from "../components/HeroSection";
 import ServicesSection from "../components/ServicesSection";
 import HowItWorks from "../components/HowItWorks";
 import TestimonialsSection from "../components/TestimonialsSection";
-import FAQSection from "../components/FAQSection";
+import FaqSection from "../components/FAQSection";
 import CTASection from "../components/CTASection";
 import Footer from "../components/Footer";
 
@@ -18,7 +18,7 @@ const LandingPage = () => {
       <ServicesSection />
       <HowItWorks />
       <TestimonialsSection />
-      <FAQSection />
+      <FaqSection />
       <CTASection />
       <Footer />
     </div>
