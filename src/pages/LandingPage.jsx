@@ -5,7 +5,7 @@ import HeroSection from "../components/HeroSection";
 import ServicesSection from "../components/ServicesSection";
 import HowItWorks from "../components/HowItWorks";
 import TestimonialsSection from "../components/TestimonialsSection";
-import FaqSection from "../components/FAQSection";
+import FaqSection from "../components/FaqSection";
 import CTASection from "../components/CTASection";
 import Footer from "../components/Footer";
 
